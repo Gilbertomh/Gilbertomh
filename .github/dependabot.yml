@@ -1,0 +1,11 @@
+# Para empezar con las actualizaciones de la versión de Dependabot, tendrás que especificar qué
+# ecosistemas de paquetes para actualizar y dónde se encuentran los manifiesto del paquete.
+# Por favor, consulte la documentación para todas las opciones de configuración:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+versión     :       2
+Actualizaciones:
+        -       ecosistema de paquetes     :       "" # Ver la documentación para los posibles valores
+      Directorio          :       "/" # Ubicación de los manifiestos del paquete
+ Calendario :
+ intervalo      :       "semanal"
